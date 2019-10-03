@@ -1,5 +1,5 @@
 # E-commerce landing page
-> Responsive e-commerce landing page using Bootstrap 4, custom CSS, web fonts and smoot scolling. 
+> Responsive e-commerce landing page using Bootstrap 4, custom CSS, web fonts and smooth scrolling. 
 
 
 ## Screenshots
